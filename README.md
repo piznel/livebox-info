@@ -1,6 +1,6 @@
 # Introduction
 
-Ce module NodeJS permet de collecter un certain nombre de données et de métriques sur le modem-router Livebox d'Orange.
+This NodeJS module collects a number of data and metrics on the Orange Livebox router modem. Only tested with Livebox V4 (fiber).
 
 # Installation
 ```shell
@@ -9,7 +9,7 @@ npm install livebox-info
 
 # Utilisation
 
-Voici un exemple de structure de code pour l'utilisation de ce module. (Voir le fichier test.js)
+Here is an example of a code structure for using this module. (See the test.js file for all functions)
 
 ```js
 var Livebox = require( 'livebox-info' );
