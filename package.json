@@ -1,0 +1,25 @@
+{
+  "name": "livebox-info",
+  "version": "0.1.0",
+  "description": "Get interesting data out of the Orange Livebox Modem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piznel/livebox-info.git"
+  },
+  "keywords": [
+    "livebox"
+  ],
+  "author": "piznel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piznel/livebox-info/issues"
+  },
+  "homepage": "https://github.com/piznel/livebox-info#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
