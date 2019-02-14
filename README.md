@@ -1,5 +1,8 @@
 # Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/piznel/livebox-info.svg)](https://greenkeeper.io/)
+
+
 This NodeJS module collects a number of data and metrics on the Orange Livebox router modem. Only tested with Livebox V4 (fiber).
 
 # Installation
